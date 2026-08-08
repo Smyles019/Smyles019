@@ -14,7 +14,7 @@ I'm a final-year BSc Informatics and Computer Science student at Strathmore Univ
 
 ## Technical Ecosystem
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
+
 
 ### Core Competencies & Core Stack
 
@@ -28,7 +28,6 @@ I'm a final-year BSc Informatics and Computer Science student at Strathmore Univ
 
 ## GitHub Stats
 
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smyles019&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
@@ -43,7 +42,11 @@ I'm a final-year BSc Informatics and Computer Science student at Strathmore Univ
 ### 👾 Pac-Man Mode
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Smyles019/Smyles019/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Smyles019/Smyles019/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Smyles019/Smyles019/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Smyles019/Smyles019/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
