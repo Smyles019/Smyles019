@@ -31,13 +31,19 @@ I'm a final-year BSc Informatics and Computer Science student at Strathmore Univ
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Symles019&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smyles019&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symles019&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smyles019&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Symles019&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smyles019&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+### 👾 Pac-Man Mode
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Smyles019/Smyles019/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>
 
 ---
