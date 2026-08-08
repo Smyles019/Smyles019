@@ -14,7 +14,7 @@ I'm a final-year BSc Informatics and Computer Science student at Strathmore Univ
 
 ## Technical Ecosystem
 
-
+*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
 
 ### Core Competencies & Core Stack
 
@@ -28,11 +28,12 @@ I'm a final-year BSc Informatics and Computer Science student at Strathmore Univ
 
 ## GitHub Stats
 
+*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smyles019&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-frontend-mocha.vercel.app/api?username=Smyles019&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smyles019&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-stats-extended-frontend-mocha.vercel.app/api/top-langs/?username=Smyles019&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
